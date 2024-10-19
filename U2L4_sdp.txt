@@ -1,0 +1,9 @@
+1. they must have the same dimensions
+
+2. A's n and B's m must be equal. For example 2x2 * 1x2 has no solution but 2x2 * 2x1 works
+
+3. the biggest m and n. for example 3x3 * 3x4 = 3x4
+
+4. 
+
+5. len
